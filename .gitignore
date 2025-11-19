@@ -25,3 +25,10 @@ dist-ssr
 
 # Project docs excluded from repository
 roadmap.md
+
+# Environment files
+.env
+.env.*
+backend/.env
+frontend/.env
+frontend/.env.*
